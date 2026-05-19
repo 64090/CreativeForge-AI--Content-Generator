@@ -1,2 +1,2 @@
 # CreativeForge-AI--Content-Generator
-My second repository
+A  no-code AI system that produces creative writing outputs
